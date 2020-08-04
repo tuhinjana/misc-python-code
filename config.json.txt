@@ -1,0 +1,1 @@
+ {'service_list':[{'name': 'elasticsearch', 'port': 9200},{'name': 'postgres', 'port': 5432}]}
